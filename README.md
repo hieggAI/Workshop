@@ -1,10 +1,10 @@
-# Inspiration for Search UI Effects
+# AMate
 
 A couple of schematic, inspirational proof-of-concepts for how to show the search interface on a website using CSS animations.
 
 [Article on Codrops](https://tympanus.net/codrops/?p=29878)
 
-[Demo](http://tympanus.net/Development/SearchUIEffects/)
+[Demo](http://tympanus.net/Development/AMate/)
 
 ## License
 
