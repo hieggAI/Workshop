@@ -1,4 +1,4 @@
-# Reflection
+# Quintuse
 
 A couple of schematic, inspirational proof-of-concepts for how to show the search interface on a website using CSS animations.
 
